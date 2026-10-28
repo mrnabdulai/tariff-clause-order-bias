@@ -1,0 +1,218 @@
+[
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "start",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 53.07,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "start",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 2910.95,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "start",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "start",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "start",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1025.82,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "start",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": null,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "middle",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 2461.29,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "middle",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "middle",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 84.87,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "middle",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "middle",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1316.54,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "middle",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 209631.37,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "end",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 45.98,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "end",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "end",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "end",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "end",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1163.34,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "end",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": null,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "scattered",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 24.62,
+  "correct": true
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "scattered",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 26.98,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "scattered",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": null,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "scattered",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 1337.07,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "scattered",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1251.15,
+  "correct": false
+ },
+ {
+  "model": "liquid/lfm-2.5-2.6b:free",
+  "layout": "scattered",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 2214.94,
+  "correct": false
+ }
+]

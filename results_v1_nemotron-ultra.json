@@ -1,0 +1,326 @@
+[
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "original",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 24.61,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "original",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "original",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "original",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "original",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1025.82,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "original",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 1908.53,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "reversed",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 24.61,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "reversed",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "reversed",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "reversed",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "reversed",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1025.82,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "reversed",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 1908.53,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle0",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 24.61,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle0",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle0",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle0",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle0",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1025.82,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle0",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 1908.53,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle1",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 24.61,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle1",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle1",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle1",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle1",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1025.82,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle1",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 1908.53,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle2",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 24.61,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle2",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle2",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle2",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle2",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1025.82,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle2",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 1908.53,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle3",
+  "category": "residential",
+  "kwh": 25,
+  "truth": 24.61,
+  "got": 24.61,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle3",
+  "category": "residential",
+  "kwh": 30,
+  "truth": 29.11,
+  "got": 29.11,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle3",
+  "category": "residential",
+  "kwh": 31,
+  "truth": 73.89,
+  "got": 73.89,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle3",
+  "category": "residential",
+  "kwh": 300,
+  "truth": 621.98,
+  "got": 621.98,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle3",
+  "category": "residential",
+  "kwh": 450,
+  "truth": 1025.82,
+  "got": 1025.82,
+  "correct": true
+ },
+ {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "order": "shuffle3",
+  "category": "non-residential",
+  "kwh": 900,
+  "truth": 1908.53,
+  "got": 1908.53,
+  "correct": true
+ }
+]
